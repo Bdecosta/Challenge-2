@@ -87,7 +87,7 @@
   
   .hero-banner {
     background: rgb(68, 88, 120);
-    background-image: url("../images/Maude.jpg");
+    background-image: url("../Images/Maude.jpg");
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -220,7 +220,7 @@
   
   
   .run-buddy {
-    background-image: url("./assets/Images/02-run-buddy.jpg");
+    background-image: url("../Images/02-run-buddy.jpg");
   }
   
   .mens-fashion {
@@ -228,15 +228,15 @@
   }
   
   .skate-league {
-    background-image: url("../images/Portfolio-02.jpg");
+    background-image: url("../Images/Portfolio-02.jpg");
   }
   
   .music-production {
-    background-image: url("../images/Portfolio-03.jpg");
+    background-image: url("../Images/Portfolio-03.jpg");
   }
   
   .sports-website {
-    background-image: url("../images/Portfolio-04.jpg");
+    background-image: url("../Images/Portfolio-04.jpg");
   }
   
   
