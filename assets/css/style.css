@@ -2,7 +2,6 @@
     box-sizing: border-box;
   }
   
-  /* brand color palette */
   :root {
     --primary: rgba(68, 88, 119, 1);
     --secondary: rgba(146, 204, 206, 1);
@@ -222,28 +221,27 @@
     color: var(--secondary);
   }
   
-  /* PORTFOLIO PROJECT IMAGES */
+  
   .run-buddy {
     background-image: url("../images/02-run-buddy.jpg");
   }
   
-  .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+  .mens-fashion {
+    background-image: url("../images/Portfolio-1.jpg");
   }
   
-  .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+  .skate-league {
+    background-image: url("../images/Portfolio-2.jpg");
   }
   
-  .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
+  .music-production {
+    background-image: url("../images/Portfolio-3.jpg");
   }
   
-  .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
+  .sports-website {
+    background-image: url("../images/Portfolio-4.jpg");
   }
   
-  /* END PORTFOLIO PROJECT IMAGES */
   
   @media screen and (max-width: 980px) {
     header {
