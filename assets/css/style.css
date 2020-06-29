@@ -39,7 +39,6 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: var(--tertiary);
     box-shadow: 0 4px 20px rgba(146, 204, 206, 0.4);
     background: transparent;
   }
@@ -92,7 +91,7 @@
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
-    min-height: 40vh;
+    min-height: 50vh;
     color: var(--light);
     padding: 2% 6%;
     display: flex;
