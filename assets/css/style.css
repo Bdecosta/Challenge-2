@@ -48,7 +48,7 @@
     background-color: var(--secondary);
     padding: 5px 1% 5px 6%;
     margin: 0;
-    font-size: 4vw;
+    font-size: 3vw;
     line-height: 1;
   }
   
@@ -105,7 +105,6 @@
   }
   
   .hero-banner h2 {
-    background-color: var(--secondary);
     color: var(--tertiary);
     margin: 0;
     padding: 5px 10px;
