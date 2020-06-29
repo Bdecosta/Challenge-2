@@ -88,7 +88,8 @@
   
   .hero-banner {
     background-image: url("../Images/Maude.jpg");
-    background-size: auto auto;
+    background-size: auto;
+    background-repeat: no-repeat;
     background-position: center;
     background-blend-mode: soft-light;
     min-height: 45vh;
