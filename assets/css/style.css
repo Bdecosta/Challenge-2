@@ -4,8 +4,8 @@
   
   :root {
     --primary: rgb(94, 68, 119);
-    --secondary: rgb(187, 70, 89);
-    --tertiary: rgb(119, 114, 42);
+    --secondary: rgb(61, 191, 196);
+    --tertiary: rgb(160, 25, 149);
     --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
   }
