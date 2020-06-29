@@ -93,7 +93,7 @@
     background-blend-mode: soft-light;
     min-height: 50vh;
     color: var(--light);
-    padding: 2% 6%;
+    padding: 2% 2%;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
