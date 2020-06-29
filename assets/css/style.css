@@ -165,9 +165,9 @@
     padding: 0 0 20px 0;
     text-decoration: none;
     background-blend-mode: soft-light;
-    background-size: 150%;
+    background-size: 125%;
     transition: all 0.5s;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
 
   .grid-item:first-child {
