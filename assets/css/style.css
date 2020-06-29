@@ -69,6 +69,7 @@
     background-position: bottom;
     transition: all 0.25s ease-in;
     font-size: 1.4rem;
+    font-style: italic;
   }
   
   nav a:hover {
